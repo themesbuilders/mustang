@@ -1,0 +1,68 @@
+@media screen and (max-width: 1199px) {
+	
+	/* Main Slider */
+	.slider-text-block h2 {
+	    font-size: 44px;
+	}
+
+	/* Team */
+	.team-block h3 {
+	    font-size: 18px;
+	}
+	.team-block .designation {
+	    font-size: 12px;
+	}
+}
+
+@media screen and (max-width: 991px) {
+	/* Main Nav */
+	#main-menu {
+		margin-top: -1px;
+	}
+	#main-menu .navbar-nav li a {
+	    color: #fff;
+	    font-size: 13px;
+	    padding: 25px 8px;
+	}
+
+	/* Main Slider */
+	.slider-text-block h2 {
+	    font-size: 32px;
+	}
+	.slider-text-block p {
+	    font-size: 20px;
+	}
+
+	/* Features */
+	.feature-block h2 {
+	    font-size: 22px;
+	}
+
+	/* Statistics */
+	.stat-icon i {
+	    font-size: 32px;
+	}
+	#clients, .counter {
+	    font-size: 30px;
+	}
+	.stat-title {
+	    font-size: 16px;
+	}
+
+	/* Partners*/
+	.partners-list li {
+	    margin: 0 20px 20px;
+	    width: 16%;
+	}
+
+	/* Footer */
+	#footer p, #footer li {
+	    font-size: 11px;
+	}
+	.tweet-time {
+	    font-size: 10px;
+	}
+	.footer-text, .footer-menu li a {
+		font-size: 12px;
+	}
+}
